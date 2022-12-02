@@ -1,0 +1,45 @@
+    [
+    {
+        "id": 1,
+        "name": "Apontador",
+        "price": 4.99,
+        "imgUrl": "src/img/apon.svg"
+    },
+    {
+        "id": 2,
+        "name": "Caneta",
+        "price": 10.00,
+        "imgUrl": "src/img/caneta-bor.svg"
+    },
+    {
+        "id": 3,
+        "name": "Naruto",
+        "price": 19.99,
+        "imgUrl": "src/img/cd-naruto.svg"
+    },
+    {
+        "id": 4,
+        "name": "Grampo",
+        "price": 3.99,
+        "imgUrl": "src/img/grampo.svg"
+    },
+    {
+        "id": 5,
+        "name": "Lápis",
+        "price": 15.99,
+        "imgUrl": "src/img/lapis-pastel.svg"
+    },
+    {
+        "id": 6,
+        "name": "Lápis Colorido",
+        "price": 19.50,
+        "imgUrl": "src/img/lapis.svg"
+    },
+        {
+        "id": 7,
+        "name": "Caderno Sky",
+        "price": 19.50,
+        "imgUrl": "/src/img/sky.svg"
+    }
+
+    ]
